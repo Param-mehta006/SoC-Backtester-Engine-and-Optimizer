@@ -1,2 +1,2 @@
 # SoC-Backtester-Engine-and-Optimizer
-This is a strategy our mentor asked to implement
+(https://turquoise-son-859.notion.site/SoC-Backtester-Engine-and-Optimizer-3bf2a8ceaa3d4c1a856e7ff5eba6745a)
